@@ -4,6 +4,8 @@
 
 About Workonect
 :------: 
+The workonect is a platform that helps the entrepreneur in the intial phase of his journey <br>
+A platform which, through the Blockchain network, facilitates the acquisition of a Tax Address in the Brazil in minus than one hour.
  O Workonect é uma plataforma inédita que ajuda o empreendedor na fase inicial da sua jornada. <br> Somos uma plataforma que, através da rede Blockchain, facilita a aquisição de Endereço Fiscal no Brasil todo em menos de 1h sem sair de casa. 
 
 To see more about Workonect, click [Here](https://www.workonect.com).
