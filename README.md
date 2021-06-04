@@ -44,6 +44,6 @@ Technologies used
 [Heroku](https://devcenter.heroku.com)
 
 ** The laravel by default uses the MySQL, if you want deploy in Heroku, you have to change to PostgreSQL <br>
-** Change the DB informations in the `.env` file
+** Change the DB informations in the `.env` file.
 
 The app on heroku: [workonect](https://workonect.herokuapp.com/api/users)
