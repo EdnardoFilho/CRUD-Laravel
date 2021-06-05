@@ -22,7 +22,7 @@ Technologies used | Windows | Linux | MAC
 [Composer](https://getcomposer.org/doc/) | [Installation Doc](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) | [Installation Doc](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) | [Installation Doc](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
 [XAMPP](https://www.apachefriends.org/download.html) | [Download](https://www.apachefriends.org/download.html) | [Download](https://www.apachefriends.org/download.html) | [Download](https://www.apachefriends.org/download.html)
 
-** Is recommended that yo use the stable version.
+** Is recommended that you use the stable version.
 
 ** To see the documentation click on the name of the stack. <br>
 ** Click on the Installation doc to see the steps to get the Laravel on your OS.
